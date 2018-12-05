@@ -7,7 +7,7 @@ For the final lecture, we
 Then we did a special "double standup" with the TWO teams in each lab section that share a TA:
 
 | lab | TA | team 1 | team 2 | Standup Where |
-|----|--------|----------------|----------------|
+|----|--------|----------------|----------------|--|
 |5pm | Jinjin | Events (Scott) | Sleep (Rachel) | FRONT of Phelps 1260 |
 |5pm | Santha | Gardens (Meredith) | QA (Ryan) | Pillars outside Phelps 1260, to left |
 |6pm | Jinjin | Recommend (Eliza) | Kitchen (Sasha) | Pillars outside Phelps 1260, to right |
