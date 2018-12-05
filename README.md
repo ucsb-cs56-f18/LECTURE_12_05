@@ -6,14 +6,14 @@ For the final lecture, we
 
 Then we did a special "double standup" with the TWO teams in each lab section that share a TA:
 
-| lab | TA | team 1 | team 2 |
+| lab | TA | team 1 | team 2 | Standup Where |
 |----|--------|----------------|----------------|
-|5pm | Jinjin | Events (Scott) | Sleep (Rachel) | 
-|5pm | Santha | Gardens (Meredith) | QA (Ryan) | 
-|6pm | Jinjin | Recommend (Eliza) | Kitchen (Sasha) | 
-|6pm | Santha | Book (Areg) | Anon (Daniel) | 
-|7pm | Jinjin | Buy (Wilson) | Whereis (Wei-Tung) | 
-|7pm | Santha | Watch (Zihao) | u-to-do (Diego) | 
+|5pm | Jinjin | Events (Scott) | Sleep (Rachel) | FRONT of Phelps 1260 |
+|5pm | Santha | Gardens (Meredith) | QA (Ryan) | Pillars outside Phelps 1260, to left |
+|6pm | Jinjin | Recommend (Eliza) | Kitchen (Sasha) | Pillars outside Phelps 1260, to right |
+|6pm | Santha | Book (Areg) | Anon (Daniel) | Pillars around the corner, close  |
+|7pm | Jinjin | Buy (Wilson) | Whereis (Wei-Tung) | Pillars around the corner, far  |
+|7pm | Santha | Watch (Zihao) | u-to-do (Diego) | BACK of Phelps 1260 |
 
 For double standup: 
 * One person from each team should share the main "User Story" from the app.
