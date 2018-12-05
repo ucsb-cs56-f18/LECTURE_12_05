@@ -25,18 +25,21 @@ For double standup:
 
 | row |
 |-----|
-| A |
-| B |
-| C |
-| D |
-| E |
-| F |
-| G  |
-| H  |
+| A | Events (Scott) |
+| B | Sleep (Rachel) | 
+| C | Gardens (Meredith) |
+| D | QA (Ryan) | 
+| step | 
+| E |Recommend (Eliza) | 
+| F |Kitchen (Sasha) | 
+| G  |Book (Areg) | 
+| step | 
+| H  |Anon (Daniel) | 
 | J  |
-| K  |
-| M  |
+| K  |Buy (Wilson) | 
+| step | 
+| M  |Whereis (Wei-Tung) | 
 | N  |
-| P  |
-| Q  |
+| P  |Watch (Zihao) |
+| Q  |u-to-do (Diego) | 
 | R  |
