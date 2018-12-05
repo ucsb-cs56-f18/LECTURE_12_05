@@ -6,6 +6,8 @@ For the final lecture, we
 
 Then we did a special "double standup" with the TWO teams in each lab section that share a TA:
 
+| lab | TA | team 1 | team 2 |
+|----|--------|----------------|----------------|
 |5pm | Jinjin | Events (Scott) | Sleep (Rachel) | 
 |5pm | Santha | Gardens (Meredith) | QA (Ryan) | 
 |6pm | Jinjin | Recommend (Eliza) | Kitchen (Sasha) | 
@@ -21,6 +23,8 @@ For double standup:
    * Are all of those steps explained in the repo?
 * IF NOT: when the standup is over, arrange yourselves Phelps 1260 according to this seating chart:
 
+| row |
+|-----|
 | A |
 | B |
 | C |
