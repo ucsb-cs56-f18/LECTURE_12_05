@@ -23,8 +23,8 @@ For double standup:
    * Are all of those steps explained in the repo?
 * IF NOT: when the standup is over, arrange yourselves Phelps 1260 according to this seating chart:
 
-| row |
-|-----|
+| row | team |
+|-----|--------|
 | A | Events (Scott) |
 | B | Sleep (Rachel) | 
 | C | Gardens (Meredith) |
